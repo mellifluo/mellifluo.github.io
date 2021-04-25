@@ -2,7 +2,7 @@
 title: "Transformer Models for Question Answering at BioASQ 2019"
 collection: publications
 permalink: /publication/bioasq
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020
 venue: 'Machine Learning and Knowledge Discovery in Databases'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-43887-6_63'
