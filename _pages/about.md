@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Welcome!
-I am Alessandro Fagnani, a Machine Learning Engineer working at [DataHow](https://www.datahow.ch). My work is focused on developing Digital Twin solutions and reaserching on Transfer Learning methods.
+
+I am Alessandro Fagnani, a Machine Learning Engineer working at [DataHow](https://www.datahow.ch). 
+My work is focused on developing Digital Twin solutions and reaserching on Transfer Learning methods.
 
 
 Since I was 10 years old, I have always been fascinated by computers and how they work. From then
