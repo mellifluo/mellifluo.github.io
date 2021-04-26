@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/cv.pdf
+permalink: /files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
